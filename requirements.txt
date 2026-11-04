@@ -1,0 +1,11 @@
+streamlit
+pandas
+langgraph
+pymupdf
+pytesseract
+Pillow
+opencv-python
+numpy
+python-dotenv
+langchain-groq
+langchain-core
